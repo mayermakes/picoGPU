@@ -16,6 +16,8 @@ Meanwhile you can use a windows machine to compile the python script into an exe
 
 as seen on Element14 presents 2024
 CC-BY-SA mayermakes 2024
+ MAYER MAKES in all varaiants are registered trademarks.
+Raspberry PI and any other Trademarks belong to their respective owners.
 
 
 
