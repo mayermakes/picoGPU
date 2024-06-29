@@ -7,7 +7,7 @@ i2c allows for more screen control ( only works between MCUs for unknown reason)
 Serial just prints what it receives to screen and changes to random color for each new page.
 Serial works on MCu and SBC/PC
 
-Driver published as python script and compiled binary for Linux.
+Driver published as python script and compiled binary for Linux (x86_AMD64 and RPI_ARM).
 For those asking for a windows exe..... pffffff...lol
 
 Seriously, pray that I never get the urge to publish special exe files. 
